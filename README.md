@@ -1,12 +1,8 @@
-My name is Wrenn.
+<h1>Wrenn Milbourn</h1>
 
-I am a contender. I've always been intrinsically motivated to give my best in all that I do. This has taught me to be wise and passionate 
-with my commitments. 
+Seeking new opportunities to utilize skills related to analytical thinking and organization.  
 
-I am ambitious. I seek growth. 
-
-These are the reasons why I am learning coding and statistics- to find a career that suits these core pieces of who I am. 
-
+More details coming soon...
 
 <!---
 wmilbourn/wmilbourn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
